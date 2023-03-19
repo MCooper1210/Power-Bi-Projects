@@ -1,0 +1,11 @@
+Aim for this project:
+
+- Create a dashboard for management and ourselves to track varying figures within the IPD-IMGT/HLA Database submissions pipeline.
+- Would be useful to create a dashboard that displays information that is often presented to the wider department bi-annually, but instead of rebuilding whole charts and diagrams on excel each time, just run a script to update/or have the dashboard automatically update to present that data. Saves time overall and can provide useful information at a glance whenever, can be used by upper management to measure database growth at their own convenience.
+- Useful to track progress, compare to previous months/years and see where improvements could be made. May also help with funding?
+- ideas:- track the number of HLA submissions received by the database on the whole each year, which can be compared to different years.
+		- track the number of HLA submissions received, seperated by source (HISTO, DKMS, ANRI, External)  
+		- table showing the number of submissions received in a given month, compare this to the number of submissions processed that month (may have a time delay)
+		- pie chart showing the number of Class I Novels/Confirmations, Class II Novels/Confirmations (could be a tree map)
+		- maybe try to find the number of full lenght to CDS only submissions and compare that year by year
+		- world map showing where submissions are coming from by each year/ just this year/ total?
